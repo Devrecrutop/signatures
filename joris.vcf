@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Joris Pierrot
+EMAIL;TYPE=INTERNET:jpierrot@recrutop.com
+TEL;TYPE=CELL:06 76 54 59 90
+TEL;TYPE=WORK:01 44 69 96 69
+ADR;TYPE=WORK:78 rue de Rome, 75008 Paris
+ORG:Recrutop
+TITLE:Responsable d'agence
+END:VCARD

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alice Araujo
+EMAIL;TYPE=INTERNET:tertiaire@recrutop.com
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:01 55 51 30 70
+ADR;TYPE=WORK:65 Rue des 3 Fontanot, Nanterre
+ORG:Recrutop
+TITLE:Recruteuse
+END:VCARD

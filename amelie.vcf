@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Amélie Ruel
+EMAIL;TYPE=INTERNET:aruel@recrutop.com
+TEL;TYPE=CELL:06 45 93 96 59
+TEL;TYPE=WORK:01 45 26 38 88
+ADR;TYPE=WORK:3, rue Clapeyron, 75008 Paris
+ORG:Recrutop
+TITLE:Assistante d'agence
+END:VCARD

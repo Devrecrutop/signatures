@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Philippe Macel
+EMAIL;TYPE=INTERNET:pmacel@recrutop.com
+TEL;TYPE=CELL:06 14 11 15 76
+TEL;TYPE=WORK:02 37 83 81 00
+ADR;TYPE=WORK:
+ORG:Recrutop
+TITLE:Responsable d'agence
+END:VCARD

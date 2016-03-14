@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Richard Grivaud
+EMAIL;TYPE=INTERNET:rgrivaud@recrutop.com
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:01 42 46 00 30
+ADR;TYPE=WORK:5 rue du 4 septembre, 75002 Paris
+ORG:Recrutop
+TITLE:Directeur Associé
+END:VCARD
